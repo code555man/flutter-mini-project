@@ -1,3 +1,3 @@
-# Flutter Mini Project
-### flutter app todo list
+## Flutter Mini Project
+> flutter Todo App
 
